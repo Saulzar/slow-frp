@@ -1,5 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Shared where
+
+import Control.Applicative
 import Data.String
 import Data.Char
 import Data.Int (Int16)
